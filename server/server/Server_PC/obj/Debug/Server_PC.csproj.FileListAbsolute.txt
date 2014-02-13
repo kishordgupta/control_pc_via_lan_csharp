@@ -1,0 +1,307 @@
+D:\Users\Wasif\Visual Studio 2008\Projects\Server_PC\Server_PC\obj\Debug\ResolveAssemblyReference.cache
+D:\Users\Wasif\Visual Studio 2008\Projects\Server_PC\Server_PC\obj\Debug\Server_PC.Form1.resources
+D:\Users\Wasif\Visual Studio 2008\Projects\Server_PC\Server_PC\obj\Debug\Server_PC.Properties.Resources.resources
+D:\Users\Wasif\Visual Studio 2008\Projects\Server_PC\Server_PC\obj\Debug\Server_PC.csproj.GenerateResource.Cache
+D:\Users\Wasif\Visual Studio 2008\Projects\Server_PC\Server_PC\bin\Debug\Server_PC.exe
+D:\Users\Wasif\Visual Studio 2008\Projects\Server_PC\Server_PC\bin\Debug\Server_PC.pdb
+D:\Users\Wasif\Visual Studio 2008\Projects\Server_PC\Server_PC\obj\Debug\Server_PC.exe
+D:\Users\Wasif\Visual Studio 2008\Projects\Server_PC\Server_PC\obj\Debug\Server_PC.pdb
+E:\Documents and Settings\free killz\Desktop\Server_PC\obj\Debug\Server_PC.exe
+E:\Documents and Settings\free killz\Desktop\Server_PC\obj\Debug\Server_PC.pdb
+E:\Documents and Settings\free killz\Desktop\Server_PC\bin\Debug\Server_PC.exe
+E:\Documents and Settings\free killz\Desktop\Server_PC\bin\Debug\Server_PC.pdb
+E:\Documents and Settings\free killz\Desktop\Server_PC\obj\Debug\ResolveAssemblyReference.cache
+E:\Documents and Settings\free killz\Desktop\Server_PC\obj\Debug\Server_PC.Form1.resources
+E:\Documents and Settings\free killz\Desktop\Server_PC\obj\Debug\Server_PC.Properties.Resources.resources
+E:\Documents and Settings\free killz\Desktop\Server_PC\obj\Debug\Server_PC.csproj.GenerateResource.Cache
+E:\Documents and Settings\free killz\Desktop\new update\server\Server_PC\obj\Debug\Server_PC.exe
+E:\Documents and Settings\free killz\Desktop\new update\server\Server_PC\obj\Debug\Server_PC.pdb
+E:\Documents and Settings\free killz\Desktop\new update\server\Server_PC\obj\Debug\ResolveAssemblyReference.cache
+E:\Documents and Settings\free killz\Desktop\new update\server\Server_PC\obj\Debug\Server_PC.Form1.resources
+E:\Documents and Settings\free killz\Desktop\new update\server\Server_PC\obj\Debug\Server_PC.Properties.Resources.resources
+E:\Documents and Settings\free killz\Desktop\new update\server\Server_PC\obj\Debug\Server_PC.csproj.GenerateResource.Cache
+E:\Documents and Settings\free killz\Desktop\new update\server\Server_PC\obj\Debug\Interop.MSTSCLib.dll
+E:\Documents and Settings\free killz\Desktop\new update\server\Server_PC\obj\Debug\Server_PC.csproj.ResolveComReference.cache
+E:\Documents and Settings\free killz\Desktop\new update\server\Server_PC\bin\Debug\Server_PC.exe
+E:\Documents and Settings\free killz\Desktop\new update\server\Server_PC\bin\Debug\Server_PC.pdb
+E:\Documents and Settings\free killz\Desktop\new update\server\Server_PC\bin\Debug\Interop.MSTSCLib.dll
+E:\Documents and Settings\free killz\Desktop\new update\server\Server_PC\bin\Debug\AxInterop.MSTSCLib.dll
+E:\Documents and Settings\free killz\Desktop\new update\server\Server_PC\obj\Debug\AxInterop.MSTSCLib.dll
+E:\Documents and Settings\free killz\Desktop\new update 2\server\Server_PC\obj\Debug\Interop.MSTSCLib.dll
+E:\Documents and Settings\free killz\Desktop\new update 2\server\Server_PC\obj\Debug\AxInterop.MSTSCLib.dll
+E:\Documents and Settings\free killz\Desktop\new update 2\server\Server_PC\obj\Debug\Server_PC.csproj.ResolveComReference.cache
+E:\Documents and Settings\free killz\Desktop\new update 2\server\Server_PC\obj\Debug\Server_PC.exe
+E:\Documents and Settings\free killz\Desktop\new update 2\server\Server_PC\obj\Debug\Server_PC.pdb
+E:\Documents and Settings\free killz\Desktop\new update 2\server\Server_PC\bin\Debug\Server_PC.exe
+E:\Documents and Settings\free killz\Desktop\new update 2\server\Server_PC\bin\Debug\Server_PC.pdb
+E:\Documents and Settings\free killz\Desktop\new update 2\server\Server_PC\bin\Debug\Interop.MSTSCLib.dll
+E:\Documents and Settings\free killz\Desktop\new update 2\server\Server_PC\bin\Debug\AxInterop.MSTSCLib.dll
+E:\Documents and Settings\free killz\Desktop\new update 2\server\Server_PC\obj\Debug\ResolveAssemblyReference.cache
+E:\Documents and Settings\free killz\Desktop\new update 2\server\Server_PC\obj\Debug\Server_PC.Form1.resources
+E:\Documents and Settings\free killz\Desktop\new update 2\server\Server_PC\obj\Debug\Server_PC.Properties.Resources.resources
+E:\Documents and Settings\free killz\Desktop\new update 2\server\Server_PC\obj\Debug\Server_PC.csproj.GenerateResource.Cache
+C:\Documents and Settings\Vortex\Desktop\new update 2\server\Server_PC\obj\Debug\Interop.MSTSCLib.dll
+C:\Documents and Settings\Vortex\Desktop\new update 2\server\Server_PC\obj\Debug\AxInterop.MSTSCLib.dll
+C:\Documents and Settings\Vortex\Desktop\new update 2\server\Server_PC\obj\Debug\Server_PC.csproj.ResolveComReference.cache
+C:\Documents and Settings\Vortex\Desktop\new update 2\server\Server_PC\obj\Debug\Server_PC.exe
+C:\Documents and Settings\Vortex\Desktop\new update 2\server\Server_PC\obj\Debug\Server_PC.pdb
+C:\Documents and Settings\Vortex\Desktop\new update 2\server\Server_PC\bin\Debug\Server_PC.exe
+C:\Documents and Settings\Vortex\Desktop\new update 2\server\Server_PC\bin\Debug\Server_PC.pdb
+C:\Documents and Settings\Vortex\Desktop\new update 2\server\Server_PC\bin\Debug\Interop.MSTSCLib.dll
+C:\Documents and Settings\Vortex\Desktop\new update 2\server\Server_PC\bin\Debug\AxInterop.MSTSCLib.dll
+C:\Documents and Settings\Vortex\Desktop\new update 2\server\Server_PC\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Vortex\Desktop\new update 2\server\Server_PC\obj\Debug\Server_PC.Form1.resources
+C:\Documents and Settings\Vortex\Desktop\new update 2\server\Server_PC\obj\Debug\Server_PC.Properties.Resources.resources
+C:\Documents and Settings\Vortex\Desktop\new update 2\server\Server_PC\obj\Debug\Server_PC.csproj.GenerateResource.Cache
+D:\Users\W@sif\Desktop\new update 2 on Vortex-pc\server\Server_PC\obj\Debug\Interop.MSTSCLib.dll
+D:\Users\W@sif\Desktop\new update 2 on Vortex-pc\server\Server_PC\obj\Debug\AxInterop.MSTSCLib.dll
+D:\Users\W@sif\Desktop\new update 2 on Vortex-pc\server\Server_PC\obj\Debug\Server_PC.csproj.ResolveComReference.cache
+D:\Users\W@sif\Desktop\new update 2 on Vortex-pc\server\Server_PC\obj\Debug\Server_PC.exe
+D:\Users\W@sif\Desktop\new update 2 on Vortex-pc\server\Server_PC\obj\Debug\Server_PC.pdb
+D:\Users\W@sif\Desktop\new update 2 on Vortex-pc\server\Server_PC\bin\Debug\Server_PC.exe
+D:\Users\W@sif\Desktop\new update 2 on Vortex-pc\server\Server_PC\bin\Debug\Server_PC.pdb
+D:\Users\W@sif\Desktop\new update 2 on Vortex-pc\server\Server_PC\bin\Debug\Interop.MSTSCLib.dll
+D:\Users\W@sif\Desktop\new update 2 on Vortex-pc\server\Server_PC\bin\Debug\AxInterop.MSTSCLib.dll
+D:\Users\W@sif\Desktop\new update 2 on Vortex-pc\server\Server_PC\obj\Debug\ResolveAssemblyReference.cache
+D:\Users\W@sif\Desktop\new update 2 on Vortex-pc\server\Server_PC\obj\Debug\Server_PC.Form1.resources
+D:\Users\W@sif\Desktop\new update 2 on Vortex-pc\server\Server_PC\obj\Debug\Server_PC.Properties.Resources.resources
+D:\Users\W@sif\Desktop\new update 2 on Vortex-pc\server\Server_PC\obj\Debug\Server_PC.csproj.GenerateResource.Cache
+D:\Users\W@sif\Desktop\server\Server_PC\obj\Debug\Interop.MSTSCLib.dll
+D:\Users\W@sif\Desktop\server\Server_PC\obj\Debug\AxInterop.MSTSCLib.dll
+D:\Users\W@sif\Desktop\server\Server_PC\obj\Debug\Server_PC.csproj.ResolveComReference.cache
+D:\Users\W@sif\Desktop\server\Server_PC\obj\Debug\Server_PC.exe
+D:\Users\W@sif\Desktop\server\Server_PC\obj\Debug\Server_PC.pdb
+D:\Users\W@sif\Desktop\server\Server_PC\bin\Debug\Server_PC.exe
+D:\Users\W@sif\Desktop\server\Server_PC\bin\Debug\Server_PC.pdb
+D:\Users\W@sif\Desktop\server\Server_PC\bin\Debug\Interop.MSTSCLib.dll
+D:\Users\W@sif\Desktop\server\Server_PC\bin\Debug\AxInterop.MSTSCLib.dll
+D:\Users\W@sif\Desktop\server\Server_PC\obj\Debug\ResolveAssemblyReference.cache
+D:\Users\W@sif\Desktop\server\Server_PC\obj\Debug\Server_PC.Form1.resources
+D:\Users\W@sif\Desktop\server\Server_PC\obj\Debug\Server_PC.Properties.Resources.resources
+D:\Users\W@sif\Desktop\server\Server_PC\obj\Debug\Server_PC.csproj.GenerateResource.Cache
+D:\Users\W@sif\Desktop\New Folder\server\Server_PC\obj\Debug\Interop.MSTSCLib.dll
+D:\Users\W@sif\Desktop\New Folder\server\Server_PC\obj\Debug\AxInterop.MSTSCLib.dll
+D:\Users\W@sif\Desktop\New Folder\server\Server_PC\obj\Debug\Server_PC.csproj.ResolveComReference.cache
+D:\Users\W@sif\Desktop\New Folder\server\Server_PC\obj\Debug\Server_PC.exe
+D:\Users\W@sif\Desktop\New Folder\server\Server_PC\obj\Debug\Server_PC.pdb
+D:\Users\W@sif\Desktop\New Folder\server\Server_PC\bin\Debug\Server_PC.exe
+D:\Users\W@sif\Desktop\New Folder\server\Server_PC\bin\Debug\Server_PC.pdb
+D:\Users\W@sif\Desktop\New Folder\server\Server_PC\bin\Debug\Interop.MSTSCLib.dll
+D:\Users\W@sif\Desktop\New Folder\server\Server_PC\bin\Debug\AxInterop.MSTSCLib.dll
+D:\Users\W@sif\Desktop\New Folder\server\Server_PC\obj\Debug\ResolveAssemblyReference.cache
+D:\Users\W@sif\Desktop\New Folder\server\Server_PC\obj\Debug\Server_PC.Form1.resources
+D:\Users\W@sif\Desktop\New Folder\server\Server_PC\obj\Debug\Server_PC.Properties.Resources.resources
+D:\Users\W@sif\Desktop\New Folder\server\Server_PC\obj\Debug\Server_PC.csproj.GenerateResource.Cache
+C:\Documents and Settings\Vortex\Desktop\new update 2\New Folder\server\Server_PC\obj\Debug\Interop.MSTSCLib.dll
+C:\Documents and Settings\Vortex\Desktop\new update 2\New Folder\server\Server_PC\obj\Debug\AxInterop.MSTSCLib.dll
+C:\Documents and Settings\Vortex\Desktop\new update 2\New Folder\server\Server_PC\obj\Debug\Server_PC.csproj.ResolveComReference.cache
+C:\Documents and Settings\Vortex\Desktop\new update 2\New Folder\server\Server_PC\obj\Debug\Server_PC.exe
+C:\Documents and Settings\Vortex\Desktop\new update 2\New Folder\server\Server_PC\obj\Debug\Server_PC.pdb
+C:\Documents and Settings\Vortex\Desktop\new update 2\New Folder\server\Server_PC\bin\Debug\Server_PC.exe
+C:\Documents and Settings\Vortex\Desktop\new update 2\New Folder\server\Server_PC\bin\Debug\Server_PC.pdb
+C:\Documents and Settings\Vortex\Desktop\new update 2\New Folder\server\Server_PC\bin\Debug\Interop.MSTSCLib.dll
+C:\Documents and Settings\Vortex\Desktop\new update 2\New Folder\server\Server_PC\bin\Debug\AxInterop.MSTSCLib.dll
+C:\Documents and Settings\Vortex\Desktop\new update 2\New Folder\server\Server_PC\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Vortex\Desktop\new update 2\New Folder\server\Server_PC\obj\Debug\Server_PC.Form1.resources
+C:\Documents and Settings\Vortex\Desktop\new update 2\New Folder\server\Server_PC\obj\Debug\Server_PC.Properties.Resources.resources
+C:\Documents and Settings\Vortex\Desktop\new update 2\New Folder\server\Server_PC\obj\Debug\Server_PC.csproj.GenerateResource.Cache
+E:\New Folder\server\Server_PC\obj\Debug\Interop.MSTSCLib.dll
+E:\New Folder\server\Server_PC\obj\Debug\AxInterop.MSTSCLib.dll
+E:\New Folder\server\Server_PC\obj\Debug\Server_PC.csproj.ResolveComReference.cache
+E:\New Folder\server\Server_PC\obj\Debug\Server_PC.exe
+E:\New Folder\server\Server_PC\obj\Debug\Server_PC.pdb
+E:\New Folder\server\Server_PC\bin\Debug\Server_PC.exe
+E:\New Folder\server\Server_PC\bin\Debug\Server_PC.pdb
+E:\New Folder\server\Server_PC\bin\Debug\Interop.MSTSCLib.dll
+E:\New Folder\server\Server_PC\bin\Debug\AxInterop.MSTSCLib.dll
+E:\New Folder\server\Server_PC\obj\Debug\ResolveAssemblyReference.cache
+E:\New Folder\server\Server_PC\obj\Debug\Server_PC.Form1.resources
+E:\New Folder\server\Server_PC\obj\Debug\Server_PC.Properties.Resources.resources
+E:\New Folder\server\Server_PC\obj\Debug\Server_PC.csproj.GenerateResource.Cache
+E:\Main2(Two way msg)\server\Server_PC\obj\Debug\Interop.MSTSCLib.dll
+E:\Main2(Two way msg)\server\Server_PC\obj\Debug\AxInterop.MSTSCLib.dll
+E:\Main2(Two way msg)\server\Server_PC\obj\Debug\Server_PC.csproj.ResolveComReference.cache
+E:\Main2(Two way msg)\server\Server_PC\obj\Debug\Server_PC.exe
+E:\Main2(Two way msg)\server\Server_PC\obj\Debug\Server_PC.pdb
+E:\Main2(Two way msg)\server\Server_PC\obj\Debug\ResolveAssemblyReference.cache
+E:\Main2(Two way msg)\server\Server_PC\obj\Debug\Server_PC.Form1.resources
+E:\Main2(Two way msg)\server\Server_PC\obj\Debug\Server_PC.Properties.Resources.resources
+E:\Main2(Two way msg)\server\Server_PC\obj\Debug\Server_PC.csproj.GenerateResource.Cache
+E:\Main2(Two way msg)\server\Server_PC\bin\Debug\Server_PC.exe
+E:\Main2(Two way msg)\server\Server_PC\bin\Debug\Server_PC.pdb
+E:\Main2(Two way msg)\server\Server_PC\bin\Debug\Interop.MSTSCLib.dll
+E:\Main2(Two way msg)\server\Server_PC\bin\Debug\AxInterop.MSTSCLib.dll
+E:\Main3(Multiple client)\server\Server_PC\obj\Debug\Interop.MSTSCLib.dll
+E:\Main3(Multiple client)\server\Server_PC\obj\Debug\AxInterop.MSTSCLib.dll
+E:\Main3(Multiple client)\server\Server_PC\obj\Debug\Server_PC.csproj.ResolveComReference.cache
+E:\Main3(Multiple client)\server\Server_PC\obj\Debug\Server_PC.exe
+E:\Main3(Multiple client)\server\Server_PC\obj\Debug\Server_PC.pdb
+E:\Main3(Multiple client)\server\Server_PC\bin\Debug\Server_PC.exe
+E:\Main3(Multiple client)\server\Server_PC\bin\Debug\Server_PC.pdb
+E:\Main3(Multiple client)\server\Server_PC\bin\Debug\Interop.MSTSCLib.dll
+E:\Main3(Multiple client)\server\Server_PC\bin\Debug\AxInterop.MSTSCLib.dll
+E:\Main3(Multiple client)\server\Server_PC\obj\Debug\ResolveAssemblyReference.cache
+E:\Main3(Multiple client)\server\Server_PC\obj\Debug\Server_PC.Form1.resources
+E:\Main3(Multiple client)\server\Server_PC\obj\Debug\Server_PC.Properties.Resources.resources
+E:\Main3(Multiple client)\server\Server_PC\obj\Debug\Server_PC.csproj.GenerateResource.Cache
+E:\Main3(Multiple client)1\server\Server_PC\obj\Debug\Interop.MSTSCLib.dll
+E:\Main3(Multiple client)1\server\Server_PC\obj\Debug\AxInterop.MSTSCLib.dll
+E:\Main3(Multiple client)1\server\Server_PC\obj\Debug\Server_PC.csproj.ResolveComReference.cache
+E:\Main3(Multiple client)1\server\Server_PC\obj\Debug\Server_PC.exe
+E:\Main3(Multiple client)1\server\Server_PC\obj\Debug\Server_PC.pdb
+E:\Main3(Multiple client)1\server\Server_PC\obj\Debug\ResolveAssemblyReference.cache
+E:\Main3(Multiple client)1\server\Server_PC\obj\Debug\Server_PC.Form1.resources
+E:\Main3(Multiple client)1\server\Server_PC\obj\Debug\Server_PC.Properties.Resources.resources
+E:\Main3(Multiple client)1\server\Server_PC\obj\Debug\Server_PC.csproj.GenerateResource.Cache
+E:\Main3(Multiple client)1\server\Server_PC\bin\Debug\Server_PC.exe
+E:\Main3(Multiple client)1\server\Server_PC\bin\Debug\Server_PC.pdb
+E:\Main3(Multiple client)1\server\Server_PC\bin\Debug\Interop.MSTSCLib.dll
+E:\Main3(Multiple client)1\server\Server_PC\bin\Debug\AxInterop.MSTSCLib.dll
+E:\Main4(sending,rcving msg between multiple clients and server)\server\Server_PC\obj\Debug\Interop.MSTSCLib.dll
+E:\Main4(sending,rcving msg between multiple clients and server)\server\Server_PC\obj\Debug\AxInterop.MSTSCLib.dll
+E:\Main4(sending,rcving msg between multiple clients and server)\server\Server_PC\obj\Debug\Server_PC.csproj.ResolveComReference.cache
+E:\Main4(sending,rcving msg between multiple clients and server)\server\Server_PC\obj\Debug\Server_PC.exe
+E:\Main4(sending,rcving msg between multiple clients and server)\server\Server_PC\obj\Debug\Server_PC.pdb
+E:\Main4(sending,rcving msg between multiple clients and server)\server\Server_PC\bin\Debug\Server_PC.exe
+E:\Main4(sending,rcving msg between multiple clients and server)\server\Server_PC\bin\Debug\Server_PC.pdb
+E:\Main4(sending,rcving msg between multiple clients and server)\server\Server_PC\bin\Debug\Interop.MSTSCLib.dll
+E:\Main4(sending,rcving msg between multiple clients and server)\server\Server_PC\bin\Debug\AxInterop.MSTSCLib.dll
+E:\Main4(sending,rcving msg between multiple clients and server)\server\Server_PC\obj\Debug\ResolveAssemblyReference.cache
+E:\Main4(sending,rcving msg between multiple clients and server)\server\Server_PC\obj\Debug\Server_PC.Form1.resources
+E:\Main4(sending,rcving msg between multiple clients and server)\server\Server_PC\obj\Debug\Server_PC.Properties.Resources.resources
+E:\Main4(sending,rcving msg between multiple clients and server)\server\Server_PC\obj\Debug\Server_PC.csproj.GenerateResource.Cache
+C:\Users\soutav\Desktop\server\Server_PC\obj\Debug\Interop.MSTSCLib.dll
+C:\Users\soutav\Desktop\server\Server_PC\obj\Debug\AxInterop.MSTSCLib.dll
+C:\Users\soutav\Desktop\server\Server_PC\obj\Debug\Server_PC.csproj.ResolveComReference.cache
+C:\Users\soutav\Desktop\server\Server_PC\obj\Debug\Server_PC.exe
+C:\Users\soutav\Desktop\server\Server_PC\obj\Debug\Server_PC.pdb
+C:\Users\soutav\Desktop\server\Server_PC\bin\Debug\Server_PC.exe
+C:\Users\soutav\Desktop\server\Server_PC\bin\Debug\Server_PC.pdb
+C:\Users\soutav\Desktop\server\Server_PC\bin\Debug\Interop.MSTSCLib.dll
+C:\Users\soutav\Desktop\server\Server_PC\bin\Debug\AxInterop.MSTSCLib.dll
+C:\Users\soutav\Desktop\server\Server_PC\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\soutav\Desktop\server\Server_PC\obj\Debug\Server_PC.Form1.resources
+C:\Users\soutav\Desktop\server\Server_PC\obj\Debug\Server_PC.Properties.Resources.resources
+C:\Users\soutav\Desktop\server\Server_PC\obj\Debug\Server_PC.csproj.GenerateResource.Cache
+E:\server on S\Server_PC\obj\Debug\Interop.MSTSCLib.dll
+E:\server on S\Server_PC\obj\Debug\AxInterop.MSTSCLib.dll
+E:\server on S\Server_PC\obj\Debug\Server_PC.csproj.ResolveComReference.cache
+E:\server on S\Server_PC\obj\Debug\Server_PC.exe
+E:\server on S\Server_PC\obj\Debug\Server_PC.pdb
+E:\server on S\Server_PC\bin\Debug\Server_PC.exe
+E:\server on S\Server_PC\bin\Debug\Server_PC.pdb
+E:\server on S\Server_PC\bin\Debug\Interop.MSTSCLib.dll
+E:\server on S\Server_PC\bin\Debug\AxInterop.MSTSCLib.dll
+E:\server on S\Server_PC\obj\Debug\ResolveAssemblyReference.cache
+E:\server on S\Server_PC\obj\Debug\Server_PC.Form1.resources
+E:\server on S\Server_PC\obj\Debug\Server_PC.Properties.Resources.resources
+E:\server on S\Server_PC\obj\Debug\Server_PC.csproj.GenerateResource.Cache
+C:\Users\soutav\Desktop\New folder (2)\Server_PC\obj\Debug\Interop.MSTSCLib.dll
+C:\Users\soutav\Desktop\New folder (2)\Server_PC\obj\Debug\AxInterop.MSTSCLib.dll
+C:\Users\soutav\Desktop\New folder (2)\Server_PC\obj\Debug\Server_PC.csproj.ResolveComReference.cache
+C:\Users\soutav\Desktop\New folder (2)\Server_PC\obj\Debug\Server_PC.exe
+C:\Users\soutav\Desktop\New folder (2)\Server_PC\obj\Debug\Server_PC.pdb
+C:\Users\soutav\Desktop\New folder (2)\Server_PC\bin\Debug\Server_PC.exe
+C:\Users\soutav\Desktop\New folder (2)\Server_PC\bin\Debug\Server_PC.pdb
+C:\Users\soutav\Desktop\New folder (2)\Server_PC\bin\Debug\Interop.MSTSCLib.dll
+C:\Users\soutav\Desktop\New folder (2)\Server_PC\bin\Debug\AxInterop.MSTSCLib.dll
+C:\Users\soutav\Desktop\New folder (2)\Server_PC\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\soutav\Desktop\New folder (2)\Server_PC\obj\Debug\Server_PC.Form1.resources
+C:\Users\soutav\Desktop\New folder (2)\Server_PC\obj\Debug\Server_PC.Properties.Resources.resources
+C:\Users\soutav\Desktop\New folder (2)\Server_PC\obj\Debug\Server_PC.csproj.GenerateResource.Cache
+C:\Users\W@sif\Desktop\server\server\Server_PC\obj\Debug\Interop.MSTSCLib.dll
+C:\Users\W@sif\Desktop\server\server\Server_PC\obj\Debug\AxInterop.MSTSCLib.dll
+C:\Users\W@sif\Desktop\server\server\Server_PC\obj\Debug\Server_PC.csproj.ResolveComReference.cache
+C:\Users\W@sif\Desktop\server\server\Server_PC\obj\Debug\Server_PC.exe
+C:\Users\W@sif\Desktop\server\server\Server_PC\obj\Debug\Server_PC.pdb
+C:\Users\W@sif\Desktop\server\server\Server_PC\bin\Debug\Server_PC.exe
+C:\Users\W@sif\Desktop\server\server\Server_PC\bin\Debug\Server_PC.pdb
+C:\Users\W@sif\Desktop\server\server\Server_PC\bin\Debug\Interop.MSTSCLib.dll
+C:\Users\W@sif\Desktop\server\server\Server_PC\bin\Debug\AxInterop.MSTSCLib.dll
+C:\Users\W@sif\Desktop\server\server\Server_PC\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\W@sif\Desktop\server\server\Server_PC\obj\Debug\Server_PC.Form1.resources
+C:\Users\W@sif\Desktop\server\server\Server_PC\obj\Debug\Server_PC.Properties.Resources.resources
+C:\Users\W@sif\Desktop\server\server\Server_PC\obj\Debug\Server_PC.csproj.GenerateResource.Cache
+E:\server on S\server\Server_PC\obj\Debug\Interop.MSTSCLib.dll
+E:\server on S\server\Server_PC\obj\Debug\AxInterop.MSTSCLib.dll
+E:\server on S\server\Server_PC\obj\Debug\Server_PC.csproj.ResolveComReference.cache
+E:\server on S\server\Server_PC\obj\Debug\Server_PC.exe
+E:\server on S\server\Server_PC\obj\Debug\Server_PC.pdb
+E:\server on S\server\Server_PC\bin\Debug\Server_PC.exe
+E:\server on S\server\Server_PC\bin\Debug\Server_PC.pdb
+E:\server on S\server\Server_PC\bin\Debug\Interop.MSTSCLib.dll
+E:\server on S\server\Server_PC\bin\Debug\AxInterop.MSTSCLib.dll
+E:\server on S\server\Server_PC\obj\Debug\ResolveAssemblyReference.cache
+E:\server on S\server\Server_PC\obj\Debug\Server_PC.Form1.resources
+E:\server on S\server\Server_PC\obj\Debug\Server_PC.Properties.Resources.resources
+E:\server on S\server\Server_PC\obj\Debug\Server_PC.csproj.GenerateResource.Cache
+C:\Documents and Settings\Vortex\Desktop\new update 2\New Folder (2)\server on S\server\Server_PC\obj\Debug\Interop.MSTSCLib.dll
+C:\Documents and Settings\Vortex\Desktop\new update 2\New Folder (2)\server on S\server\Server_PC\obj\Debug\AxInterop.MSTSCLib.dll
+C:\Documents and Settings\Vortex\Desktop\new update 2\New Folder (2)\server on S\server\Server_PC\obj\Debug\Server_PC.csproj.ResolveComReference.cache
+C:\Documents and Settings\Vortex\Desktop\new update 2\New Folder (2)\server on S\server\Server_PC\obj\Debug\Server_PC.exe
+C:\Documents and Settings\Vortex\Desktop\new update 2\New Folder (2)\server on S\server\Server_PC\obj\Debug\Server_PC.pdb
+C:\Documents and Settings\Vortex\Desktop\new update 2\New Folder (2)\server on S\server\Server_PC\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Vortex\Desktop\new update 2\New Folder (2)\server on S\server\Server_PC\obj\Debug\Server_PC.Form1.resources
+C:\Documents and Settings\Vortex\Desktop\new update 2\New Folder (2)\server on S\server\Server_PC\obj\Debug\Server_PC.Properties.Resources.resources
+C:\Documents and Settings\Vortex\Desktop\new update 2\New Folder (2)\server on S\server\Server_PC\obj\Debug\Server_PC.csproj.GenerateResource.Cache
+C:\Documents and Settings\Vortex\Desktop\new update 2\New Folder (2)\server on S\server\Server_PC\bin\Debug\Server_PC.exe
+C:\Documents and Settings\Vortex\Desktop\new update 2\New Folder (2)\server on S\server\Server_PC\bin\Debug\Server_PC.pdb
+C:\Documents and Settings\Vortex\Desktop\new update 2\New Folder (2)\server on S\server\Server_PC\bin\Debug\Interop.MSTSCLib.dll
+C:\Documents and Settings\Vortex\Desktop\new update 2\New Folder (2)\server on S\server\Server_PC\bin\Debug\AxInterop.MSTSCLib.dll
+D:\last\New Folder (2)\server on S\server\Server_PC\obj\Debug\Interop.MSTSCLib.dll
+D:\last\New Folder (2)\server on S\server\Server_PC\obj\Debug\AxInterop.MSTSCLib.dll
+D:\last\New Folder (2)\server on S\server\Server_PC\obj\Debug\Server_PC.csproj.ResolveComReference.cache
+D:\last\New Folder (2)\server on S\server\Server_PC\obj\Debug\Server_PC.exe
+D:\last\New Folder (2)\server on S\server\Server_PC\obj\Debug\Server_PC.pdb
+D:\last\New Folder (2)\server on S\server\Server_PC\obj\Debug\ResolveAssemblyReference.cache
+D:\last\New Folder (2)\server on S\server\Server_PC\obj\Debug\Server_PC.Form1.resources
+D:\last\New Folder (2)\server on S\server\Server_PC\obj\Debug\Server_PC.Properties.Resources.resources
+D:\last\New Folder (2)\server on S\server\Server_PC\obj\Debug\Server_PC.csproj.GenerateResource.Cache
+D:\last\New Folder (2)\server on S\server\Server_PC\bin\Debug\Server_PC.exe
+D:\last\New Folder (2)\server on S\server\Server_PC\bin\Debug\Server_PC.pdb
+D:\last\New Folder (2)\server on S\server\Server_PC\bin\Debug\Interop.MSTSCLib.dll
+D:\last\New Folder (2)\server on S\server\Server_PC\bin\Debug\AxInterop.MSTSCLib.dll
+C:\Documents and Settings\Vortex\Desktop\new update 2\New Folder (3)\server on S\server\Server_PC\obj\Debug\Interop.MSTSCLib.dll
+C:\Documents and Settings\Vortex\Desktop\new update 2\New Folder (3)\server on S\server\Server_PC\obj\Debug\AxInterop.MSTSCLib.dll
+C:\Documents and Settings\Vortex\Desktop\new update 2\New Folder (3)\server on S\server\Server_PC\obj\Debug\Server_PC.csproj.ResolveComReference.cache
+C:\Documents and Settings\Vortex\Desktop\new update 2\New Folder (3)\server on S\server\Server_PC\obj\Debug\Server_PC.exe
+C:\Documents and Settings\Vortex\Desktop\new update 2\New Folder (3)\server on S\server\Server_PC\obj\Debug\Server_PC.pdb
+C:\Documents and Settings\Vortex\Desktop\new update 2\New Folder (3)\server on S\server\Server_PC\bin\Debug\Server_PC.exe
+C:\Documents and Settings\Vortex\Desktop\new update 2\New Folder (3)\server on S\server\Server_PC\bin\Debug\Server_PC.pdb
+C:\Documents and Settings\Vortex\Desktop\new update 2\New Folder (3)\server on S\server\Server_PC\bin\Debug\Interop.MSTSCLib.dll
+C:\Documents and Settings\Vortex\Desktop\new update 2\New Folder (3)\server on S\server\Server_PC\bin\Debug\AxInterop.MSTSCLib.dll
+C:\Documents and Settings\Vortex\Desktop\new update 2\New Folder (3)\server on S\server\Server_PC\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Vortex\Desktop\new update 2\New Folder (3)\server on S\server\Server_PC\obj\Debug\Server_PC.Form1.resources
+C:\Documents and Settings\Vortex\Desktop\new update 2\New Folder (3)\server on S\server\Server_PC\obj\Debug\Server_PC.Properties.Resources.resources
+C:\Documents and Settings\Vortex\Desktop\new update 2\New Folder (3)\server on S\server\Server_PC\obj\Debug\Server_PC.csproj.GenerateResource.Cache
+C:\Users\W@sif\Desktop\New Folder (3)\server on S\server\Server_PC\obj\Debug\Interop.MSTSCLib.dll
+C:\Users\W@sif\Desktop\New Folder (3)\server on S\server\Server_PC\obj\Debug\AxInterop.MSTSCLib.dll
+C:\Users\W@sif\Desktop\New Folder (3)\server on S\server\Server_PC\obj\Debug\Server_PC.csproj.ResolveComReference.cache
+C:\Users\W@sif\Desktop\New Folder (3)\server on S\server\Server_PC\obj\Debug\Server_PC.exe
+C:\Users\W@sif\Desktop\New Folder (3)\server on S\server\Server_PC\obj\Debug\Server_PC.pdb
+C:\Users\W@sif\Desktop\New Folder (3)\server on S\server\Server_PC\bin\Debug\Server_PC.exe
+C:\Users\W@sif\Desktop\New Folder (3)\server on S\server\Server_PC\bin\Debug\Server_PC.pdb
+C:\Users\W@sif\Desktop\New Folder (3)\server on S\server\Server_PC\bin\Debug\Interop.MSTSCLib.dll
+C:\Users\W@sif\Desktop\New Folder (3)\server on S\server\Server_PC\bin\Debug\AxInterop.MSTSCLib.dll
+C:\Users\W@sif\Desktop\New Folder (3)\server on S\server\Server_PC\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\W@sif\Desktop\New Folder (3)\server on S\server\Server_PC\obj\Debug\Server_PC.Form1.resources
+C:\Users\W@sif\Desktop\New Folder (3)\server on S\server\Server_PC\obj\Debug\Server_PC.Properties.Resources.resources
+C:\Users\W@sif\Desktop\New Folder (3)\server on S\server\Server_PC\obj\Debug\Server_PC.csproj.GenerateResource.Cache
+E:\Last update\server on S\server\Server_PC\obj\Debug\Interop.MSTSCLib.dll
+E:\Last update\server on S\server\Server_PC\obj\Debug\AxInterop.MSTSCLib.dll
+E:\Last update\server on S\server\Server_PC\obj\Debug\Server_PC.csproj.ResolveComReference.cache
+E:\Last update\server on S\server\Server_PC\obj\Debug\Server_PC.exe
+E:\Last update\server on S\server\Server_PC\obj\Debug\Server_PC.pdb
+E:\Last update\server on S\server\Server_PC\bin\Debug\Server_PC.exe
+E:\Last update\server on S\server\Server_PC\bin\Debug\Server_PC.pdb
+E:\Last update\server on S\server\Server_PC\bin\Debug\Interop.MSTSCLib.dll
+E:\Last update\server on S\server\Server_PC\bin\Debug\AxInterop.MSTSCLib.dll
+E:\Last update\server on S\server\Server_PC\obj\Debug\ResolveAssemblyReference.cache
+E:\Last update\server on S\server\Server_PC\obj\Debug\Server_PC.Form1.resources
+E:\Last update\server on S\server\Server_PC\obj\Debug\Server_PC.Properties.Resources.resources
+E:\Last update\server on S\server\Server_PC\obj\Debug\Server_PC.csproj.GenerateResource.Cache
+D:\Final Project\server\server\Server_PC\obj\Debug\Interop.MSTSCLib.dll
+D:\Final Project\server\server\Server_PC\obj\Debug\AxInterop.MSTSCLib.dll
+D:\Final Project\server\server\Server_PC\obj\Debug\Server_PC.csproj.ResolveComReference.cache
+D:\Final Project\server\server\Server_PC\obj\Debug\Server_PC.exe
+D:\Final Project\server\server\Server_PC\obj\Debug\Server_PC.pdb
