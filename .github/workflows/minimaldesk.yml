@@ -1,0 +1,67 @@
+name: MinimalDesk tests and native builds
+on:
+  push:
+    branches: [minimaldesk-php-mvp, main, master]
+    paths: ['minimaldesk/**', 'client/**', 'server/**', 'tests/**', 'scripts/**', '*.toml', 'requirements*.txt', '.github/workflows/minimaldesk.yml']
+  pull_request:
+    paths: ['minimaldesk/**', 'client/**', 'server/**', 'tests/**', 'scripts/**', '*.toml', 'requirements*.txt', '.github/workflows/minimaldesk.yml']
+  workflow_dispatch:
+permissions:
+  contents: read
+jobs:
+  test:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+      - name: Locate standalone or nested project
+        shell: bash
+        run: |
+          if [ -f minimaldesk/pyproject.toml ]; then echo 'PROJECT_DIR=minimaldesk' >> "$GITHUB_ENV"; else echo 'PROJECT_DIR=.' >> "$GITHUB_ENV"; fi
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - uses: shivammathur/setup-php@v2
+        with:
+          php-version: '8.4'
+          coverage: none
+      - name: Install dependencies
+        working-directory: ${{ env.PROJECT_DIR }}
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y xvfb libxtst6 libx11-6
+          python -m pip install -r requirements-dev.txt
+          python -m pip install --no-deps -e .
+      - name: PHP lint and client/relay/X11 integration tests
+        working-directory: ${{ env.PROJECT_DIR }}
+        run: |
+          find server -name '*.php' -print0 | xargs -0 -n1 php -l
+          MINIDESK_TEST_X11=1 xvfb-run -a -s '-screen 0 1280x800x24' python -m pytest -q
+  build:
+    needs: test
+    strategy:
+      fail-fast: false
+      matrix:
+        os: [windows-2022, ubuntu-24.04]
+    runs-on: ${{ matrix.os }}
+    steps:
+      - uses: actions/checkout@v4
+      - name: Locate project
+        shell: bash
+        run: |
+          if [ -f minimaldesk/pyproject.toml ]; then echo 'PROJECT_DIR=minimaldesk' >> "$GITHUB_ENV"; else echo 'PROJECT_DIR=.' >> "$GITHUB_ENV"; fi
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Install and build
+        working-directory: ${{ env.PROJECT_DIR }}
+        run: |
+          python -m pip install -r requirements-dev.txt
+          python -m pip install --no-deps -e .
+          python -m pytest -q tests/test_core.py
+          python scripts/build.py
+      - uses: actions/upload-artifact@v4
+        with:
+          name: MinimalDesk-${{ matrix.os }}-unsigned
+          path: ${{ env.PROJECT_DIR }}/dist/MinimalDesk/
+          if-no-files-found: error
+          retention-days: 14

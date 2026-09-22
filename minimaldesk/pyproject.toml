@@ -1,0 +1,26 @@
+[build-system]
+requires = ["setuptools>=77"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "minimaldesk"
+version = "0.1.0"
+description = "Minimal attended remote desktop for Windows and Linux/X11 with a PHP relay"
+requires-python = ">=3.11"
+readme = "README.md"
+license = "MIT"
+dependencies = [
+  "Pillow>=12.3.0,<13",
+  "cryptography>=46.0.4,<49",
+  "websockets>=16,<18",
+]
+
+[project.gui-scripts]
+minimaldesk = "minimaldesk.gui:main"
+
+[tool.setuptools.packages.find]
+where = ["client"]
+
+[tool.pytest.ini_options]
+pythonpath = ["client"]
+testpaths = ["tests"]
