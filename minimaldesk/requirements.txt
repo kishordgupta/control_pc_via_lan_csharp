@@ -1,0 +1,4 @@
+# Versions used for the initial Linux validation run. Review updates before deployment.
+Pillow==12.3.0
+cryptography==46.0.4
+websockets==16.0

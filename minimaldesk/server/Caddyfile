@@ -1,0 +1,9 @@
+{$MINIDESK_DOMAIN} {
+    @websocket path /ws
+    handle @websocket {
+        reverse_proxy relay:8080
+    }
+    handle {
+        respond "MinimalDesk relay. Use the desktop client." 200
+    }
+}

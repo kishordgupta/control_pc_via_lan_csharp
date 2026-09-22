@@ -1,0 +1,33 @@
+services:
+  relay:
+    build: ./server
+    restart: unless-stopped
+    environment:
+      MINIDESK_DATA: /data
+      MINIDESK_LISTEN: 0.0.0.0:8080
+      MINIDESK_MAX_CLIENTS: "20"
+    volumes:
+      - relay_data:/data
+    read_only: true
+    tmpfs:
+      - /tmp:size=8m,mode=1777
+    cap_drop: [ALL]
+    security_opt: [no-new-privileges:true]
+    mem_limit: 256m
+    pids_limit: 32
+    # Do not publish port 8080. Only Caddy reaches this private backend.
+  caddy:
+    image: caddy:2-alpine
+    restart: unless-stopped
+    environment:
+      MINIDESK_DOMAIN: ${MINIDESK_DOMAIN:?Set MINIDESK_DOMAIN in .env}
+    ports: ["80:80", "443:443"]
+    volumes:
+      - ./server/Caddyfile:/etc/caddy/Caddyfile:ro
+      - caddy_data:/data
+      - caddy_config:/config
+    depends_on: [relay]
+volumes:
+  relay_data:
+  caddy_data:
+  caddy_config:
